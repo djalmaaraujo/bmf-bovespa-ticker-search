@@ -1,0 +1,15 @@
+{
+  "name": "bovespa-ticker",
+  "version": "0.0.1",
+  "description": "Search for a BMF Bovespa Ticker",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Djalma Araujo",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch": "^2.2.0"
+  }
+}
